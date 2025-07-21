@@ -1,6 +1,4 @@
-Great! I watched the video you shared, and it’s a detailed walkthrough of a **Sales Data Analysis project using Excel and Power BI**, done on a dataset of 12 months of sales data for a superstore. Below is a professional GitHub summary you can use for your project README or portfolio:
 
----
 
 ## 🛒 Sales Data Analysis Dashboard (Excel)
 
